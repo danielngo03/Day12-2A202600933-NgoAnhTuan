@@ -20,6 +20,18 @@ from app.cost_guard import check_and_record_budget, estimate_cost, get_budget
 from app.rate_limiter import check_rate_limit
 from utils.mock_llm import ask as llm_ask
 
+import sys
+from pathlib import Path
+_src = Path(__file__).resolve().parent.parent / "src"
+if str(_src) not in sys.path:
+    sys.path.insert(0, str(_src))
+
+from core.config import load_settings as load_lab10_settings
+from retrieval.index import LocalEmbeddingIndex
+from retrieval.qa import answer_question
+from retrieval.llm import build_llm
+import dataclasses
+
 
 class JSONFormatter(logging.Formatter):
     def format(self, record):
@@ -111,6 +123,20 @@ async def lifespan(app: FastAPI):
     redis_client = Redis.from_url(settings.redis_url, decode_responses=True)
     redis_client.ping()
     app.state.redis = redis_client
+
+    # Init RAG Index
+    try:
+        app.state.lab10_settings = load_lab10_settings()
+        embeddings_path = app.state.lab10_settings.paths.embeddings_json
+        if embeddings_path.exists():
+            app.state.index = LocalEmbeddingIndex.load(settings=app.state.lab10_settings, embeddings_path=embeddings_path)
+        else:
+            app.state.index = None
+    except Exception as e:
+        logger.error(f"Failed to load Lab 10 RAG index: {e}")
+        app.state.index = None
+        app.state.lab10_settings = None
+
     _is_ready = True
     json_log(
         "startup",
@@ -119,6 +145,7 @@ async def lifespan(app: FastAPI):
         environment=settings.environment,
         instance_id=INSTANCE_ID,
         redis_url_configured=bool(settings.redis_url),
+        rag_index_loaded=app.state.index is not None
     )
 
     yield
@@ -191,19 +218,7 @@ class AskResponse(BaseModel):
     timestamp: str
 
 
-@app.get("/", tags=["Info"])
-def root():
-    return {
-        "app": settings.app_name,
-        "version": settings.app_version,
-        "environment": settings.environment,
-        "endpoints": {
-            "ask": "POST /ask (requires X-API-Key)",
-            "health": "GET /health",
-            "ready": "GET /ready",
-            "usage": "GET /usage/{user_id} (requires X-API-Key)",
-        },
-    }
+
 
 
 @app.post("/ask", response_model=AskResponse, tags=["Agent"])
@@ -221,7 +236,43 @@ async def ask_agent(
     budget_info = check_and_record_budget(redis_client, body.user_id, estimated)
 
     append_history(redis_client, body.user_id, "user", body.question)
-    answer = answer_with_context(body.question, history_before)
+    
+    # Lab 10 RAG Integration
+    rag_settings = getattr(request.app.state, "lab10_settings", None)
+    index = getattr(request.app.state, "index", None)
+    model_used = settings.llm_model
+    
+    if not index or not rag_settings:
+        answer = answer_with_context(body.question, history_before)
+    else:
+        try:
+            result = answer_question(body.question, settings=rag_settings, index=index, top_k=4)
+            llm_model = settings.llm_model
+            provider = "openai" if "gpt" in llm_model or "o4" in llm_model else "gemini" 
+            if "nemotron" in llm_model: provider = "openrouter"
+            
+            override = dataclasses.replace(rag_settings, llm_provider=provider, model_name=llm_model)
+            llm = build_llm(override, temperature=0.0)
+            
+            context = "\n\n".join(result.retrieved_contexts[:4])
+            prompt = f"You are a scholarly research assistant. Answer the user's question based ONLY on the following retrieved paper context. If the context doesn't contain the answer, say so clearly.\n\nContext:\n{context}\n\nQuestion: {body.question}\n\nAnswer:"
+            
+            response = llm.invoke(prompt)
+            answer_text = response.content if hasattr(response, "content") else str(response)
+            
+            if result.retrieved_titles:
+                sources = "\n\n---\n📚 **Sources:**\n" + "\n".join(
+                    f"- {t} (DOI: {d})" for t, d in zip(result.retrieved_titles, result.retrieved_doc_ids)
+                )
+                answer = f"{answer_text}{sources}"
+            else:
+                answer = answer_text
+                
+            model_used = f"rag-{llm_model}"
+        except Exception as e:
+            logger.error(f"RAG Error: {e}")
+            answer = answer_with_context(body.question, history_before)
+            
     append_history(redis_client, body.user_id, "assistant", answer)
     history_after = load_history(redis_client, body.user_id)
 
@@ -238,7 +289,7 @@ async def ask_agent(
         user_id=body.user_id,
         question=body.question,
         answer=answer,
-        model=settings.llm_model,
+        model=model_used,
         history_length=len(history_after),
         rate_limit=rate_info,
         budget=budget_info,
@@ -289,13 +340,20 @@ def health(request: Request):
         redis_status = "ok"
     except Exception:
         redis_status = "error"
+        
+    rag_index_loaded = getattr(request.app.state, "index", None) is not None
+    
     return {
-        "status": "ok",
+        "status": "ok" if (redis_status == "ok" and rag_index_loaded) else "degraded",
         "version": settings.app_version,
         "environment": settings.environment,
         "instance_id": INSTANCE_ID,
         "uptime_seconds": round(time.time() - START_TIME, 1),
-        "checks": {"redis": redis_status, "llm": "mock" if not settings.openai_api_key else "openai"},
+        "checks": {
+            "redis": redis_status, 
+            "llm": "openai" if settings.openai_api_key else "gemini",
+            "rag_index": "loaded" if rag_index_loaded else "missing"
+        },
         "timestamp": datetime.now(timezone.utc).isoformat(),
     }
 
@@ -308,7 +366,11 @@ def ready(request: Request):
         get_redis(request).ping()
     except Exception as exc:
         raise HTTPException(status_code=503, detail=f"Redis not ready: {exc}") from exc
-    return {"ready": True, "instance_id": INSTANCE_ID}
+        
+    if getattr(request.app.state, "index", None) is None:
+        raise HTTPException(status_code=503, detail="RAG index not loaded.")
+        
+    return {"ready": True, "instance_id": INSTANCE_ID, "rag_ready": True}
 
 
 @app.get("/metrics", tags=["Operations"])
@@ -331,6 +393,9 @@ def _handle_signal(signum, _frame):
 signal.signal(signal.SIGTERM, _handle_signal)
 signal.signal(signal.SIGINT, _handle_signal)
 
+
+from chainlit.utils import mount_chainlit
+mount_chainlit(app=app, target="src/ui/app.py", path="/")
 
 if __name__ == "__main__":
     uvicorn.run(

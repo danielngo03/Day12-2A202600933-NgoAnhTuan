@@ -6,6 +6,6 @@ __pycache__/
 venv/
 .venv/
 .git/
-*.md
+!chainlit.md
 tests/
 .DS_Store

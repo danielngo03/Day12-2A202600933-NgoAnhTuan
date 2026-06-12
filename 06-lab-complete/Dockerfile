@@ -25,6 +25,10 @@ COPY --from=builder /root/.local /home/agent/.local
 # Copy application
 COPY app/ ./app/
 COPY utils/ ./utils/
+COPY src/ ./src/
+COPY data/ ./data/
+COPY .chainlit/ ./.chainlit/
+COPY chainlit.md ./chainlit.md
 
 RUN chown -R agent:agent /app /home/agent
 
@@ -42,7 +46,7 @@ EXPOSE 8000
 # Health check
 HEALTHCHECK --interval=30s --timeout=10s --start-period=15s --retries=3 \
     CMD python -c \
-    "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')" \
+    "import urllib.request, os; port = os.environ.get('PORT', '8000'); urllib.request.urlopen(f'http://localhost:{port}/health')" \
     || exit 1
 
 CMD ["python", "-m", "app.main"]
