@@ -99,14 +99,15 @@ def run_checks():
     dockerfile = os.path.join(base, "Dockerfile")
     if os.path.exists(dockerfile):
         content = open(dockerfile).read()
+        content_lower = content.lower()
         results.append(check("Multi-stage build",
-                             "AS builder" in content or "AS runtime" in content))
+                             "as builder" in content_lower or "as runtime" in content_lower))
         results.append(check("Non-root user",
                              "useradd" in content or "USER " in content))
         results.append(check("HEALTHCHECK instruction",
                              "HEALTHCHECK" in content))
         results.append(check("Slim base image",
-                             "slim" in content or "alpine" in content))
+                             "slim" in content_lower or "alpine" in content_lower))
 
     dockerignore = os.path.join(base, ".dockerignore")
     if os.path.exists(dockerignore):

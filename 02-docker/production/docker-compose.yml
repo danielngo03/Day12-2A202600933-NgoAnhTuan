@@ -12,8 +12,6 @@
 # Stop:  docker compose down
 # ============================================================
 
-version: "3.9"
-
 services:
 
   # ──────────────────────────────────────
@@ -31,8 +29,8 @@ services:
       - QDRANT_URL=http://qdrant:6333
       # ❌ KHÔNG đặt secrets trực tiếp ở đây trong production
       # ✅ Dùng: docker secret hoặc env file ngoài git
-    env_file:
-      - .env.local              # secrets riêng, trong .gitignore
+    # Secrets thật nên set từ shell/platform, ví dụ:
+    # OPENAI_API_KEY=... docker compose up
     depends_on:
       redis:
         condition: service_healthy

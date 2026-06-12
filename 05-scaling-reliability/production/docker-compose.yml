@@ -8,8 +8,6 @@
 # bởi instance khác nhau, nhưng session vẫn liên tục vì Redis!
 # ============================================================
 
-version: "3.9"
-
 services:
 
   # ──────────────────────────────────────
@@ -23,8 +21,7 @@ services:
       - REDIS_URL=redis://redis:6379/0
       - ENVIRONMENT=demo
       - PORT=8000
-    env_file:
-      - .env.local
+    # Secrets thật nên set từ shell/platform nếu cần.
     depends_on:
       redis:
         condition: service_healthy
