@@ -1,0 +1,2159 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 105834,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              7
+            ]
+          ],
+          "date-time": "2026-05-07T09:14:16Z",
+          "timestamp": 1778145256520
+        },
+        "abstract": "<jats:p>This study selects 15 short videos published over\u00a0the past year by new-type farmers (xin nong ren) on Douyin\u00a0as research\u00a0corpus.\u00a0It adopts systemic functional grammar\u2019s interpersonal meaning theory, visual grammar\u2019s interactive meaning theory, and intersemiotic complementarity theory as\u00a0analytical framework, using AntConc and ELAN multimodal video analysis software as research tools.\u00a0This study employs both quantitative and qualitative methods to examine\u00a0how agricultural promotion short videos construct interpersonal meaning through multimodal resources. The analysis focuses on three aspects, including\u00a0verbal mode, visual mode, and their synergistic complementarity. According to the\u00a0findings, in\u00a0the verbal mode, declarative sentences account for the highest proportion\u00a0in\u00a0the mood system.\u00a0Median-value and low-value modal expressions reach 92.8% in\u00a0the modality system, which helps present information in a relative neutral\u00a0and\u00a0tentative manner\u00a0and contributes to shaping a\u00a0credible image of new-type farmers\u00a0and maintaining\u00a0audience trust.\u00a0In the visual mode, demand image,\u00a0medium\u00a0close-up\u00a0and medium shots, horizontal angle, and high-modality color expressions are commonly used.\u00a0These visual choices effectively reduce\u00a0the social distance between creators and audiences, support a more\u00a0equal interpersonal relationship\u00a0and encourage\u00a0emotional engagement.\u00a0In terms of intersemiotic complementarity between verbal and visual modes, attitudinal convergence, attitudinal divergence, and appellative\u00a0reinforcement can all be observed. Among them, attitudinal convergence occurs most often, where\u00a0verbal and visual elements work mutually to reinforce\u00a0interpersonal meaning, improve\u00a0coherence and optimize\u00a0the audience\u2019s viewing experience. This study enriches empirical research on multimodal discourse analysis in the context\u00a0of agricultural promotion short videos, and provides implications for the interactive design and content production of such videos.</jats:p>",
+        "DOI": "10.22158/eltls.v8n3p21",
+        "title": [
+          "A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin"
+        ],
+        "author": [
+          {
+            "given": "Yixin",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2027,
+              5,
+              7
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.scholink.org/ojs/index.php/eltls/article/viewFile/57573/13483",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.scholink.org/ojs/index.php/eltls/article/viewFile/57573/13483",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2027,
+              5,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              3
+            ]
+          ],
+          "date-time": "2026-05-03T01:37:59Z",
+          "timestamp": 1777772279691
+        },
+        "abstract": "<jats:p>Pemahaman siswa terhadap ide-ide dasar adalah hasil yang diharapkan dari penyelidikan ini tentang kemanjuran paradigma instruksional Pembelajaran Berbasis Masalah (PBL) dengan penggunaan alat pedagogis. Pernyataan masalah riset ini adalah: 1. Apakah pendekatan pembelajaran Pembelajaran Berbasis Masalah berbantuan Media Gasingkar memengaruhi pemahaman siswa tentang gagasan garis singgung pada lingkaran? 2. Bagaimana model Pembelajaran Berbasis Masalah berbantuan media Gasingkar dibandingkan dengan paradigma pembelajaran Konvensional dalam hal pemahaman konsep? Tujuan penelitian: Berdasarkan tantangan yang diidentifikasi dan formulasinya, berikut ini adalah tujuan penelitian yang diantisipasi: 1. Menyadari bahwa pengertian garis singgung lingkaran dapat dipengaruhi oleh pendekatan pembelajaran Pembelajaran Berbasis Masalah yang dibantu oleh media Gasingkar. 2. Menyadari bahwa, dibandingkan dengan model pembelajaran Konvensional, model Pembelajaran Berbasis Masalah, dengan penggunaan media Gasingkar, meningkatkan pemahaman konseptual. Riset ini memakai pendekatan kuasi-eksperimental yang mencakup kelompok kontrol yang tidak setara. Jumlah siswa maksimum yang diikutsertakan dalam sampel riset ini adalah 32 dari kelas XI\u2013F7 dan 31 dari kelas XI\u2013F9. Temuan penelitian dikumpulkan. Dampak sejumlah 12,8% ditemukan oleh data penelitian pada pendekatan pembelajaran Problem Based Learning dengan penggunaan alat peraga. Temuan uji-T satu sisi kanan mendukung hasil ini, yaitu penerimaan dan penolakannya. Hal ini memperlihatkan bahwa metodologi Problem Based Learning, dengan bantuan bahan ajar, memiliki pengaruh terhadap pemahaman konseptual siswa kelas XI SMA PGRI 2 Kayen. \u00a0</jats:p>",
+        "DOI": "10.26877/jipmat.v11i1.2279",
+        "title": [
+          "PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN"
+        ],
+        "author": [
+          {
+            "given": "Cikal Wulandari",
+            "family": "Kristi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Widya",
+            "family": "Kusumaningsih",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Rizky Esti",
+            "family": "Utami",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2027,
+              4,
+              27
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://journal2.upgris.ac.id/index.php/jipmat/article/download/2279/1493",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journal2.upgris.ac.id/index.php/jipmat/article/download/2279/1493",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2027,
+              4,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              5
+            ]
+          ],
+          "date-time": "2026-02-05T14:50:14Z",
+          "timestamp": 1770303014433
+        },
+        "abstract": "<jats:p>The increasingly advanced and modern social and cultural development of society has led many people to prefer instant and practical things, such as online transportation. Digital technology has changed people's consumption patterns, including in the transportation industry. This study aims to analyze the influence of SERVQUAL and the Technology Acceptance Model (TAM) on maximizing customer satisfaction. The research employed a quantitative approach, distributing questionnaires to 400 respondents who were Maxim app users. Data analysis was performed using SPSS version 25, including validity and reliability tests, as well as multiple linear regression and path analysis. The results showed that Service Quality, Perceived Usefulness, and Perceived Ease of Use had a significant effect on Customer Satisfaction. Furthermore, Customer Satisfaction also significantly influences the intention to use. Directly, Perceived Usefulness and Service Quality were found to significantly influence Behavior intention to use, while perceived ease of use only significantly influenced behavior intention to use when mediated by customer satisfaction. These findings highlight the significance of service quality, perceived usefulness, and perceived ease of use in fostering customer satisfaction and loyalty among Maxim users.</jats:p>",
+        "DOI": "10.30656/1intech.v11i2.11359",
+        "title": [
+          "The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction"
+        ],
+        "author": [
+          {
+            "given": "Achmad Fazi",
+            "family": "Alam",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Dhany Isnaeni",
+            "family": "Dharmawan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              31
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://e-jurnal.lppmunsera.org/index.php/INTECH/article/download/11359/3832",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://e-jurnal.lppmunsera.org/index.php/INTECH/article/download/11359/3832",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              8
+            ]
+          ],
+          "date-time": "2026-03-08T02:37:51Z",
+          "timestamp": 1772937471387
+        },
+        "abstract": "<jats:p>This study aims to examine the effects, improvements, and differences in the skills and work attitudes of students through the integration of a Deep Learning approach with the Project Based Learning PjBL model in the Style and Design Development element of the Fashion Design and Production subject at vocational high schools. The study employed a quasi-experimental method with a pretest posttest non-equivalent control group design. The participants consisted of 41 eleventh grade students from the Fashion Design Program at SMK Widya Praja Ungaran, including 21 students in the control class that implemented conventional PjBL and 20 students in the experimental class that implemented PjBL integrated with the Deep Learning approach. The research instruments consisted of a skills assessment rubric and a work attitude scale that had been validated by six experts using the Percentage of Agreement test. Data were analyzed using the N Gain test and the Independent Sample t Test. The findings indicate that the N Gain value of skills in the experimental class reached 65.4%, which falls within the moderate category and is higher than the control class with 53% in the less effective category. The N Gain value of work attitude in the experimental class reached 92% in the effective category, while the control class obtained 72% in the fairly effective category. The results of the t test show significant differences in skills t = 13.175, p = 0.000 &lt; 0.05 and work attitudes t = 3.212, p = 0.003 &lt; 0.05. These findings indicate that the integration of a Deep Learning approach within the PjBL model significantly improves student skills and work attitudes in vocational fashion design learning.</jats:p>",
+        "DOI": "10.15294/jvce.v11i2.45302",
+        "title": [
+          "Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development"
+        ],
+        "author": [
+          {
+            "given": "Umi Chasanah",
+            "family": "Turosidah",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yeri",
+            "family": "Sutopo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Sri Endah",
+            "family": "Wahyuningsih",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ade Novi Nurul",
+            "family": "Ihsani",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              31
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://journal.unnes.ac.id/journals/jvce/article/download/45302/8667",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journal.unnes.ac.id/journals/jvce/article/download/45302/8667",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5559/di.di.34.4.01",
+        "title": [
+          "How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model"
+        ],
+        "abstract": "<jats:p>This study explores how ethical leadership fosters employees'\nfeedback-seeking behaviours. Drawing on Self-Determination\nTheory, the research identifies intrinsic motivation and affective\ncommitment as key mediators through which ethical leaders\nencourage proactive feedback-seeking. The findings reveal that\nethical leadership positively influences employees' intrinsic\nmotivation and affective commitment to the organisation, which\nin turn enhances their tendency to feedback \u2013 an essential\nbehaviour in dynamic and quality-sensitive work environments\nsuch as manufacturing. To empirically test this model, a crosssectional\nsurvey was conducted among 422 employees at a\nlarge manufacturing plant in Manisa, T\u00fcrkiye. The results\nsupport a serial mediation model, confirming that ethical\nleadership indirectly promotes feedback-seeking behaviours\nthrough increased intrinsic motivation and affective commitment.</jats:p>",
+        "author": [
+          {
+            "given": "Wasim",
+            "family": "Ul Rehman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mustafa",
+            "family": "Bekmezci",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "L\u00fctfi",
+            "family": "S\u00fcr\u00fcc\u00fc",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Kamran",
+            "family": "Ali",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anam",
+            "family": "Mustansar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              31
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              31
+            ]
+          ]
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2026-02-28T18:09:29Z",
+          "timestamp": 1772302169518
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              5
+            ]
+          ],
+          "date-time": "2026-05-05T08:16:09Z",
+          "timestamp": 1777968969815
+        },
+        "abstract": "<jats:p>Pioneer performances depend on entrepreneurial orientation for their success. This approach is crucial for converting green intellectual capital into actionable, practical innovations. Therefore, clever management techniques can accelerate and improve overall growth. Before incorporating green intellectual capital into organisational structures, managers should carefully consider its potential. The current study is based on a quantitative method, in which data were gathered from middle managers working at the Defense Housing Authority, one of the renowned construction firms in Karachi. The data were analyzed using PLS-SEM (Partial Least Squares Structural Equation Modeling). The results of the research showed that there is a significant positive relationship between green intellectual capital and entrepreneurial orientation, and between green intellectual capital and the financial and non-financial aspects of innovation performance. It also highlighted the significant role of knowledge management as a moderator between entrepreneurial orientation and innovative performance, whereas, in contrast, green self-efficacy had no moderating effect on the relationship between green intellectual capital and EO. These results have implications for management, as they can help identify specific areas of their industry that require improvement before committing significant financial resources to green intellectual capital. Furthermore, this understanding helps assess a company's readiness to apply these innovations successfully.</jats:p>",
+        "DOI": "10.51153/mf.v20.i2.709",
+        "title": [
+          "A Moderating and mediating model of innovation performance"
+        ],
+        "author": [
+          {
+            "given": "Saira",
+            "family": "Naz",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Consultant"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Fatima",
+            "family": "Liaquat",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Fatima Marketing Solution"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              31
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://marketforcesjournal.kiet.edu.pk/index.php/marketforces/article/download/709/456",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://marketforcesjournal.kiet.edu.pk/index.php/marketforces/article/download/709/456",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.35429/ejm.2026.17.35.1.1.10",
+        "title": [
+          "Digital marketing factors influencing Generation Z\u2019s purchase intention in the  restaurant sector: a systematic review"
+        ],
+        "abstract": "<jats:p>This article addresses the need to understand how digital \nmarketing influences the purchasing intentions of Generation Z, \na key demographic for the restaurant industry due to its strong \ndigital presence. While studies on digital marketing exist, few \nfocus specifically on this generation within the restaurant sector. \nTherefore, the objective is to identify the digital marketing \nfactors that impact their purchasing intentions in this specific \nsector. The research is based on a systematic literature review \nfollowing the PRISMA methodology, using the Web of Science, \nScopus, and Google databases. From the thematic analysis, three \ninfluential factors were identified: electronic Word of Mouth \n[eWOM], Social Media Marketing [SMM], and Social Media \nInfluencers [SMI]. The results provide clarity on this topic within \nthe academic field and offer recommendations for restaurants to \nconnect with this segment.</jats:p>",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0002-7230-3070",
+            "authenticated-orcid": false,
+            "given": "Iris Leandra",
+            "family": "Alfonso-Sanjul",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/059sp8j34",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Instituto Polit\u00e9cnico Nacional"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5413-1063",
+            "authenticated-orcid": false,
+            "given": "Elizabeth",
+            "family": "Acosta-Gonzaga",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/059sp8j34",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Instituto Polit\u00e9cnico Nacional"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2026-03-30T21:53:30Z",
+          "timestamp": 1774907610757
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              17
+            ]
+          ],
+          "date-time": "2026-02-17T15:07:49Z",
+          "timestamp": 1771340869004
+        },
+        "abstract": "<jats:p>El estudio analiza la pertinencia t\u00e9cnica y normativa deimplementar una Direcci\u00f3n de Responsabilidad SocialUniversitaria (DRSU) en universidades p\u00fablicas peruanas, as\u00edcomo su posible articulaci\u00f3n o fusi\u00f3n con la actual Direcci\u00f3n deProyecci\u00f3n Social y Cultural (DPSC). A partir del SistemaNacional de Planeamiento Estrat\u00e9gico y los lineamientos delSistema Nacional de Modernizaci\u00f3n, se identific\u00f3 unasuperposici\u00f3n funcional entre ambas \u00e1reas institucionales. Lainvestigaci\u00f3n utiliz\u00f3 un an\u00e1lisis documental comparativo deestructuras org\u00e1nicas en 18 universidades p\u00fablicas,complementado con la revisi\u00f3n de literatura relevante en los\u00faltimos cinco a\u00f1os. Los resultados muestran que es viable crearuna DRSU adscrita al Vicerrectorado Acad\u00e9mico como unidadestrat\u00e9gica transversal, o fusionarla con la DPSC dentro de unamacroestructura integrada denominada Direcci\u00f3n General deVinculaci\u00f3n y Responsabilidad Social. El an\u00e1lisis de procesosevidenci\u00f3 duplicidades en programas de extensi\u00f3n, actividadesculturales y acciones de vinculaci\u00f3n comunitaria. Asimismo, sedesarroll\u00f3 un modelo organizacional estandarizado que optimizarecursos, reduce redundancias y fortalece la coherenciainstitucional. Se concluye que un enfoque de gesti\u00f3n porprocesos favorece la articulaci\u00f3n entre proyecci\u00f3n social yresponsabilidad social, permitiendo una actuaci\u00f3n universitariam\u00e1s alineada al entorno social y a las exigencias de calidadeducativa.\u00a0</jats:p>",
+        "DOI": "10.54288/yotantsipanko.v5i2.57",
+        "title": [
+          "Modelo organizacional para la articulaci\u00f3n entre proyecci\u00f3n social y responsabilidad social universitaria en universidades p\u00fablicas peruanas.",
+          "Organizational model for the articulation between social outreach and university socialresponsibility in Peruvian public universities."
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1695-3693",
+            "authenticated-orcid": false,
+            "given": "Sa\u00fal",
+            "family": "Mor\u00e1n Cusi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://revistas.uniscjsa.edu.pe/index.php/Yotantsipanko/article/download/57/72",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://revistas.uniscjsa.edu.pe/index.php/Yotantsipanko/article/download/57/72",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.35429/jet.2026.10.21.3.1.6",
+        "title": [
+          "Model of teaching strategies for the transition from competency-based education to  a humanistic educational model for social justice at TecNM"
+        ],
+        "abstract": "<jats:p>This study aimed to design, implement, and validate a \nteaching strategies model to support the transition from \ncompetency-based education to a humanistic educational \nmodel focused on social justice at TecNM. A qualitative \nparticipatory action research methodology was \nimplemented. Results reveal positive teacher disposition \ntoward change, improved student participation, and the \nintegration of ethical and social dimensions into classroom \npractices. However, challenges related to time constraints \nand the need for systematic teacher training were \nidentified. The study concludes that the transition toward \na humanistic paradigm requires structured pedagogical \nsupport and institutional alignment.</jats:p>",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-7994-8499",
+            "authenticated-orcid": false,
+            "given": "Adri\u00e1n",
+            "family": "P\u00e9rez-V\u00e1zquez",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00davry38",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Tecnol\u00f3gico Nacional de M\u00e9xico"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0003-1360-8111",
+            "authenticated-orcid": false,
+            "given": "Laura",
+            "family": "Vidal-Reyes",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00davry38",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Tecnol\u00f3gico Nacional de M\u00e9xico"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0008-0405-2357",
+            "authenticated-orcid": false,
+            "given": "Mar\u00eda de Lourdes",
+            "family": "Torres-Madrid",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00davry38",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Tecnol\u00f3gico Nacional de M\u00e9xico"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0002-3383-1321",
+            "authenticated-orcid": false,
+            "given": "Yaitla Aitza",
+            "family": "Reyes-Osorio",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00davry38",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Tecnol\u00f3gico Nacional de M\u00e9xico"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2026-06-01T23:04:26Z",
+          "timestamp": 1780355066421
+        }
+      },
+      {
+        "DOI": "10.35429/jhrt.2026.12.27.3.1.5",
+        "title": [
+          "Analysis of leadership in small family businesses in the municipality of Centro,  Tabasco, to generate a development model"
+        ],
+        "abstract": "<jats:p>Small family businesses are key players in regional economic \ndevelopment. In the municipality of Centro, Tabasco, these \norganizations face challenges related to business management, \ngenerational succession, and adaptation to competitive \nenvironments. In this scenario, leadership is a strategic factor in \nstrengthening productivity, decision-making, and organizational \nsustainability. The objective of this study is to analyze the \ncharacteristics of leadership in small family businesses in order to \npropose a business development model that strengthens this sector. The \nresearch adopts a qualitative exploratory-descriptive approach through \ninterviews with owners and managers. The results show that leadership \nis linked to the founder's experience, family values, and centralized \ndecision-making, providing an opportunity to professionalize \nmanagement</jats:p>",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0003-0891-3779",
+            "authenticated-orcid": false,
+            "given": "Karen Daheli",
+            "family": "Madrigal-P\u00e9rez",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/054w40x57",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Villahermosa Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6288-3636",
+            "authenticated-orcid": false,
+            "given": "Leticia",
+            "family": "L\u00f3pez-Valdivieso",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/054w40x57",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Villahermosa Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-6083-079X",
+            "authenticated-orcid": false,
+            "given": "David Antonio",
+            "family": "Garc\u00eda-Reyes",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/054w40x57",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Villahermosa Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-3862-9555",
+            "authenticated-orcid": false,
+            "given": "Jucelly",
+            "family": "Castro-De la Cruz",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/054w40x57",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Villahermosa Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              23
+            ]
+          ],
+          "date-time": "2026-04-23T00:54:33Z",
+          "timestamp": 1776905673617
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              2
+            ]
+          ],
+          "date-time": "2026-04-02T05:19:49Z",
+          "timestamp": 1775107189290
+        },
+        "abstract": "<jats:p>General elections are the main pillars of Indonesian democracy as stipulated in Article 27 of the 1945 Constitution of the Republic of Indonesia and Law Number 7 of 2017 concerning General Elections. The younger generation, which makes up about 55% of the total electorate, has a strategic role in determining the political direction of the nation. However, the phenomenon of political apathy and white groups (golput) among the younger generation shows a low awareness of their constitutional rights and obligations. This research aims to analyze efforts to increase the political awareness of the younger generation through political education and legal socialization. The method used is counseling and mentoring activities for students of SMK Negeri 8 Information and Communication Technology Jayapura on July 25, 2025. The results of the study show that systematic and comprehensive political education is able to increase the understanding of the younger generation about the importance of participation in elections, the right to vote as citizens, as well as the dangers of politicization and irrational mobilization. In conclusion, increasing the political awareness of the younger generation requires synergy between election organizers, the government, and educational institutions to form rational, critical, and actively participating voters in the democratic process.</jats:p>",
+        "DOI": "10.62872/sza4qm30",
+        "title": [
+          "Increasing Awareness of the Younger Generation on Political Participation in General Elections"
+        ],
+        "author": [
+          {
+            "given": "Marudut",
+            "family": "Hasugian",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "family": "Firman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Muhamad",
+            "family": "Sofian",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://ejournal-nawalaedu.com/index.php/IJJ/article/download/2480/3423",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://ejournal-nawalaedu.com/index.php/IJJ/article/download/2480/3423",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.33425/3066-1226.1195",
+        "title": [
+          "AI-Based Performance Analysis of Renewable Energy Systems for Sustainable Power Generation"
+        ],
+        "abstract": "<jats:p>The growing demand for clean and reliable energy has accelerated the adoption of renewable energysystems such as solar photovoltaic and wind power technologies. However, the inherent variabilityof renewable resources poses significant challenges in performance prediction, system optimization,and reliable power generation. This study presents an artificial intelligence\u2013based framework forperformance analysis of renewable energy systems aimed at supporting sustainable power generation.Operational and environmental data are utilized to develop machine learning models capable ofcapturing complex, nonlinear relationships between system inputs and energy output. The AI-basedapproach is evaluated against conventional analytical methods using performance indicators suchas power output, efficiency, prediction accuracy, and response time. The results demonstrate that AI-driven models significantly improve prediction accuracy, reduce analysis time, and enhance systemperformance assessment under varying operating conditions. The findings highlight the potential ofartificial intelligence to improve operational efficiency, support intelligent energy management, andstrengthen the integration of renewable energy systems into sustainable power networks.</jats:p>",
+        "author": [
+          {
+            "given": "Vidhya",
+            "family": "G",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Suchithra,",
+            "family": "M",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Santhosh",
+            "family": "G",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anupama",
+            "family": "M",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              2
+            ]
+          ],
+          "date-time": "2026-03-02T11:57:54Z",
+          "timestamp": 1772452674724
+        }
+      },
+      {
+        "DOI": "10.35429/jhrt.2026.12.27.2.1.13",
+        "title": [
+          "Validated instrument to measure quality of work life in generation Z: A Contextualized Proposal  in Tepeji del R\u00edo"
+        ],
+        "abstract": "<jats:p>Quality of Work Life [QWL] is a key factor influencing employee well\nbeing, particularly among Generation Z, who value flexibility and work\nlife balance. This study aimed to design and validate an instrument to \nassess QWL among young workers in Tepeji del R\u00edo using the Delphi \nmethodology to ensure methodological rigor. Seven experts in human \nresources and occupational psychology participated in two Delphi rounds, \nassessing each item for relevance, clarity, representativeness, pertinence, \nand ambiguity. Item-level content validity indices [I-CVI] exceeded 0.78, \nwith a scale-level average [S-CVI/Ave] of 0.98. The iterative feedback \nprocess refined linguistic and conceptual precision, resulting in a valid \nand reliable instrument for future quantitative research on quality of work \nlife in local contexts.</jats:p>",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0001-4180-5716",
+            "authenticated-orcid": false,
+            "given": "Paola Gizeth",
+            "family": "Jim\u00e9nez-Fabian",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/031f8kt38",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Universidad Aut\u00f3noma del Estado de Hidalgo"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9093-1081",
+            "authenticated-orcid": false,
+            "given": "Magda Gabriela",
+            "family": "S\u00e1nchez-Trujillo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/031f8kt38",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Universidad Aut\u00f3noma del Estado de Hidalgo"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              30
+            ]
+          ]
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2026-03-30T23:50:55Z",
+          "timestamp": 1774914655915
+        }
+      },
+      {
+        "DOI": "10.59568/jasic-2025-6-2-06",
+        "title": [
+          "5G and Beyond: IoT Support in Next-Generation Networks"
+        ],
+        "abstract": "<jats:p>The arrival of 5G signals the beginning of a new era of connectivity, one that has the potential to transform many sectors. The promotion of the Internet of Things (IoT), which is a vast network of interconnected devices, is central to this transformation. This article looks at the potential of 5G and its future iterations to facilitate the smooth integration of IoT, addresses the main issues and looks at future developments. It highlights the key characteristics of 5G that make it a perfect platform for the IoT, including Ultra Low Latency (ULT), enhanced Mobile Broadband (eMBB), as well as Massive Machine-to-Machine (mMTC) Communication. The paper further looks at the role of network slicing in customizing network resources to meet the specific needs of various Internet of Things applications. The paper concludes by looking at the possibilities of 6G and other technologies in enhancing the Internet of Things through advanced innovations such as artificial intelligence.</jats:p>",
+        "author": [
+          {
+            "given": "Ya\u2019u",
+            "family": "Nuhu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Computer Science, School of Science and Technology, Federal Polytechnic, Damaturu, Yobe State, Nigeria"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mukhtar",
+            "family": "Shehu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Computer Science, School of Science and Technology, Federal Polytechnic, Damaturu, Yobe State, Nigeria"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mohammed",
+            "family": "Maikolo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Computer Science, School of Science and Technology, Federal Polytechnic, Damaturu, Yobe State, Nigeria"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mukhtar",
+            "family": "Musa Zakari",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Computer Science, School of Science and Technology, Federal Polytechnic, Damaturu, Yobe State, Nigeria"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              29
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              29
+            ]
+          ]
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              6
+            ]
+          ],
+          "date-time": "2026-05-06T14:14:30Z",
+          "timestamp": 1778076870580
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              21
+            ]
+          ],
+          "date-time": "2026-01-21T23:40:54Z",
+          "timestamp": 1769038854318
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              21
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Buku Manajemen Diklat Transformatif: Model, Strategi, dan Implementasi dalam Kerangka Merdeka Belajar\u2013Kampus Merdeka disusun untuk memberikan pemahaman komprehensif mengenai manajemen pendidikan dan pelatihan (diklat) sebagai proses pembelajaran yang tidak hanya bersifat teknis dan administratif, tetapi juga berorientasi pada pengembangan manusia secara utuh. Buku ini menempatkan diklat sebagai instrumen strategis dalam menjawab tantangan pendidikan abad ke-21 yang ditandai oleh dinamika sosial, kemajuan teknologi, serta tuntutan dunia kerja yang semakin kompleks.\n\nPembahasan dalam buku ini menekankan pentingnya pengembangan keterampilan abad ke-21\u2014meliputi berpikir kritis, kreativitas, kolaborasi, dan komunikasi\u2014melalui desain pembelajaran yang berpusat pada peserta, berbasis pengalaman, dan kontekstual. Selain itu, buku ini menggarisbawahi peran kolaboratif aktor pendidikan, yaitu dosen, mahasiswa, dan peserta didik, dalam menciptakan sistem diklat yang partisipatif, reflektif, dan berkelanjutan.\n\nDalam kaitannya dengan kebijakan Merdeka Belajar\u2013Kampus Merdeka (MBKM), buku ini menunjukkan relevansi manajemen diklat sebagai jembatan antara dunia akademik dan realitas sosial melalui program-program pembelajaran kontekstual dan pengabdian kepada masyarakat. Puncak kajian buku ini adalah perumusan Model Manajemen Diklat Transformatif yang disusun berdasarkan landasan filosofis, teoretis, dan empiris, serta dirancang sebagai siklus pembelajaran berkelanjutan yang mencakup analisis kebutuhan, perencanaan, pelaksanaan, monitoring, evaluasi, dan refleksi.\n\nSecara keseluruhan, buku ini menawarkan pendekatan manajemen diklat yang transformatif dan kontekstual sebagai upaya strategis untuk meningkatkan kualitas pendidikan dan pelatihan. Buku ini diharapkan menjadi rujukan akademik dan praktis bagi mahasiswa, dosen, pengelola diklat, serta pemangku kepentingan pendidikan dalam mengembangkan program diklat yang bermakna, adaptif, dan berkelanjutan.</jats:p>",
+        "DOI": "10.62523/aksarashofa.6",
+        "title": [
+          "MANAJEMEN DIKLAT TRANSFORMATIF: Model, Strategi, Dan Implementasi Dalam Kerangka Merdeka Belajar\u2013Kampus Merdeka"
+        ],
+        "author": [
+          {
+            "given": "Mohammad",
+            "family": "Zaini",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Dani",
+            "family": "Hermawan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jufriyanto",
+            "family": "Jufriyanto",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              21
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              21
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              5
+            ]
+          ],
+          "date-time": "2026-05-05T13:30:35Z",
+          "timestamp": 1777987835166
+        },
+        "abstract": "<jats:p>This special issue is devoted to the study of correlation between language, culture, cognition and communication. This topic was widely discussed at the VII International Firsova\u2019s Readings at the RUDN University on October 23-25, 2025. The issue presents articles by conference participants, covering a wide range of topics. They demonstrate that in the modern, anthropocentric stage of linguistics, an interdisciplinary research paradigm is dominant. It enables scholars to transcend their disciplines, integrate research methods, share knowledge from different subject areas, and open up new research opportunities and perspectives. The focus of this kind of research is not the language system itself, but the individual who speaks the language, along with their emotions, feelings, relationships, and the worldview. The development of digital technologies and artificial intelligence provides a powerful impetus for interdisciplinary linguistic research. They offer researchers new opportunities but also raise important questions that require solutions. This introductory article outlines the paradigms of contemporary linguistic research and provides a brief overview of the articles presented in this issue.</jats:p>",
+        "DOI": "10.22363/2687-0088-48905",
+        "title": [
+          "Language, culture, cognition and communication: The paradigms of modern linguistic research"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-6167-455X",
+            "authenticated-orcid": false,
+            "given": "Tatiana V.",
+            "family": "Larina",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "RUDN University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://journals.rudn.ru/linguistics/article/viewFile/50064/26993",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journals.rudn.ru/linguistics/article/viewFile/50064/26993",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              23
+            ]
+          ],
+          "date-time": "2026-04-23T17:39:13Z",
+          "timestamp": 1776965953018
+        },
+        "abstract": "<jats:p>This article substantiates the choice of fractal cybernetic architecture of regional anti-narcotic strategy based on the principles of the model-oriented systemic engineering. It is established that the tools of both traditional management by objectives and KPI-oriented management have predominantly reactive and fragmented patterns that reduces their efficiency in conditions of high dynamic of narcotics market and interdepartmental dissociation. The methodological basis was composed by the W. R. Ashbys Law of requisite variety and the S. Beers model of viable system that permitted to interpret the anti-narcotic strategy as adaptive multi-level social medical system. As a result, the executable fractal cybernetic model-based systems engineering architecture was formed that incorporated goal-setting, structural, modeling, digital, and measurement loops and ensured goal traceability, coordination of interdepartmental processes and closing feedback loops. On the basis of materials from the Kabardino-Balkarian Republic, the feasibility of the architecture through the digital platform AURA-FORECAST, integration of interdepartmental data and support of management decisions in the cycle of monitoring and adjustment is demonstrated. The obtained results form the evidence-based basis of transition from reactive anti-narcotic policy to predictive and adaptive model of management in health care.</jats:p>",
+        "DOI": "10.32687/0869-866x-2026-34-2-285-290",
+        "title": [
+          "THE FRACTAL CYBERNETIC ARCHITECTURE OF THE REGIONAL ANTI-NARCOTIC STRATEGY BASED ON MODEL ORIENTED SYSTEMIC ENGINEERING AS A TOOL OF INTERSECTORAL ADAPTIVE MANAGEMENT"
+        ],
+        "author": [
+          {
+            "given": "A. V.",
+            "family": "Akhokhova",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "V. V.",
+            "family": "Lyutsko",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "M. K.",
+            "family": "Tkhagapsoeva",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "D. V.",
+            "family": "Zheligotova",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://journal-nriph.ru/journal/article/viewFile/2610/5460",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journal-nriph.ru/journal/article/viewFile/2610/5460",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              5
+            ]
+          ],
+          "date-time": "2026-05-05T13:30:38Z",
+          "timestamp": 1777987838291
+        },
+        "abstract": "<jats:p>In this article, I argue in favor of strengthening the relationship between Systemic Functional Linguistics (SFL) and Social Cognition in order to answer the following question: how could we extend the understanding of how linguistic choices are affected or complemented cognitively? I thus attempt to integrate the views introduced by SFL and Social Cognition by recognizing that the categories from the former, added to the principles of the latter, may lead researchers in linguistics - both theoretical and applied - to a broader field of comprehension which may have some impact on all ways of apprehending the social element. The study draws on categories proposed by SFL as well as the propositions of Social Cognition. I assume, therefore, that there are social, cultural, and cognitive reasons that, if integrated, impact discourse semantics in a manner that contributes positively to an effective communication. That is why a few elements from sociology - egological perspective, dialectic perspective of social reality, sociocultural memory - are used to explain aspects of the social construction of reality and to support the discussions undertaken, in addition to providing some input to answer the following questions: (1) what is the relationship between SFL and Social Cognition, and (2) what does this relationship imply for our analyses? These reflections point to the role of language in the construction of possible worlds on levels that permeate the situational and cultural contexts and indicate that social cognition is a condition for understanding the interrelationship between lexicogrammar and discourse semantics.</jats:p>",
+        "DOI": "10.22363/2687-0088-48784",
+        "title": [
+          "Systemic functional linguistics and social cognition: A theoretical approach to the relationship between language, society and culture"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0677-8302",
+            "authenticated-orcid": false,
+            "given": "Cl\u00e1udio M\u00e1rcio do",
+            "family": "Carmo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Federal University of S\u00e3o Jo\u00e3o del-Rei"
+              },
+              {
+                "name": "National Council for Scientific and Technological Development"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://journals.rudn.ru/linguistics/article/viewFile/50065/26994",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journals.rudn.ru/linguistics/article/viewFile/50065/26994",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              13
+            ]
+          ],
+          "date-time": "2026-04-13T16:40:43Z",
+          "timestamp": 1776098443755
+        },
+        "abstract": "<jats:p>This study identifies and analyzes the factors influencing the formation, functioning, usability, and efficiency of augmented reality (AR) systems. The first group of factors is determined by the technical characteristics of the system and the information infrastructure. The quality of the sensors determines the degree of detail and reliability of the initial data; devices with low accuracy can cause delays, drift, or jitter, which negatively affect the stability of the virtual object. Accurate positioning and tracking depend on GPS signals, visual-inertial odometry, or marker-based systems that can be affected by multichannel interference, signal jamming, or sensor noise, resulting in a mismatch between the physical and virtual worlds. Network bandwidth limitations affect real-time data streaming, cloud rendering, and multi-user synchronization, and unreliable connections result in skips or delays. The second group of factors refers to environmental conditions. Fluctuations in lighting can cause noise, decrease contrast, and disrupt object detection algorithms, which require the use of reliable computer vision techniques. This study proposes a solution to problems that improves the quality of augmented reality content and is key to the creation and development of AR systems.</jats:p>",
+        "DOI": "10.22363/2312-8143-2026-27-1-70-80",
+        "title": [
+          "Factors Influencing the Formation of Augmented Reality Systems"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-8824-1241",
+            "authenticated-orcid": false,
+            "given": "Larisa V.",
+            "family": "Kruglova",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "RUDN University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6762-9231",
+            "authenticated-orcid": false,
+            "given": "Fafa K.",
+            "family": "Ceesay",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "RUDN University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0000-6787-3517",
+            "authenticated-orcid": false,
+            "given": "Rokhaya",
+            "family": "Samb",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "RUDN University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://journals.rudn.ru/engineering-researches/article/viewFile/49751/26911",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journals.rudn.ru/engineering-researches/article/viewFile/49751/26911",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              6
+            ]
+          ],
+          "date-time": "2026-05-06T01:56:14Z",
+          "timestamp": 1778032574382
+        },
+        "abstract": "<jats:p>The article discusses the status of varieties of a pluricentric language, such as Russian English, Chinese English, among others. Some linguists waive this status because the language system of these varieties is not based on their own norms but is grounded on the norms of other varieties, either British or American. However, speakers of these varieties use them as lingua francas for communication and their Englishes are easily recognized as non-British or non-American, i.e., their varieties serve for linguacultural identification of the users. This is due to the fact that each variety is underpinned by the users\u2019 culture and mindset and reflects traces of the users\u2019 native languages, which allows us to make a conclusion that local varieties are not bound to the \u201cpolitical map\u201d of the region (one of the critical arguments against world Englishes) but they are associated with their ethnic cultures. The article is an analytical review of the debatable issues of the World Englishes paradigm, English as a Lingua Franca theory, and English as an International Language concept. It aims to reveal factors that make it possible to recognize Expanding Circle varieties, to state the major features and functions of Russian English. The author focuses on some practical textbooks aimed at teaching world Englishes and their cultures. The method of corpus analysis of Russian English was used. Quantitative and comparative analysis of research articles in the leading sociolinguistic journals ( World Englishes and English Today ) was conducted to reveal the overwhelming predominance of Chinese English research as compared with that of Russian English. The author concludes that world Englishes of the Expanding Circle are legitimate varieties that have variable exonorms. Certain trends for their endonorms to start forming are revealed.</jats:p>",
+        "DOI": "10.22363/2687-0088-47921",
+        "title": [
+          "Legitimacy of varieties of English as a non-native language"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0570-2349",
+            "authenticated-orcid": false,
+            "given": "Zoya G.",
+            "family": "Proshina",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Lomonosov Moscow State University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://journals.rudn.ru/linguistics/article/viewFile/50067/26996",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journals.rudn.ru/linguistics/article/viewFile/50067/26996",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              22
+            ]
+          ],
+          "date-time": "2026-02-22T12:59:23Z",
+          "timestamp": 1771765163412
+        },
+        "abstract": "<jats:p>The article presents results of comparative analysis of modern telemedicine technologies and organizational models of their implementation in health care system. On the basis of study of national and international experience, the rationale for perspective model of geriatric telemedicine contact center is presented. Its role and place in the structure of remote medical care support in the Russian Federation is determined. The article considers key directions application of areas of telemedicine: synchronous and asynchronous tele-consultation, remote methodological support, tele-training and tele-monitoring. The elderly patient usually has difficulty with moving on long distances. Therefore, special attention is paid to development of out-of-office and home tele-monitoring using wearable devices, expert systems, and soft hardware complexes permitting to automatize processes of diagnostic and correction and to apply remote interaction as well. The original model of geriatric telemedicine contact center includes front-office for primary reception and routing of requests, counseling module with involvement of accredited experts, methodological module for supporting various categories of users and monitoring module for dynamic control of indicators of life activity. The model is primarily directed toward elderly patients with limited mobility that is conditioned by high need of this category of citizens for accessible and continuous medical care. The economic efficiency of telemedicine solutions capable to decrease treatment costs, to reduce the number of hospitalizations and to unload hospital sector. In conclusion, expediency of organization of Federal profile center instead of multiple territorial divisions to optimize resources and to ensure uniform standards of remote geriatric care on national basis is substantiated.</jats:p>",
+        "DOI": "10.32687/0869-866x-2026-34-1-25-33",
+        "title": [
+          "THE MODEL OF TELEMEDICINE CONTACT-CENTER"
+        ],
+        "author": [
+          {
+            "given": "M. A.",
+            "family": "Yakushin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "E. N.",
+            "family": "Kabaeva",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "A. V.",
+            "family": "Vorobeva",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://journal-nriph.ru/journal/article/viewFile/2535/5429",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journal-nriph.ru/journal/article/viewFile/2535/5429",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              5
+            ]
+          ],
+          "date-time": "2026-05-05T13:30:37Z",
+          "timestamp": 1777987837469
+        },
+        "abstract": "<jats:p>Contemporary scholarly discourse on gender-inclusive communication remains predominantly descriptive, often avoiding a systematic critical analysis of its internal contradictions and social consequences. However, the growing social tension around new linguistic norms, their ideologization, and direct impact on public institutions demand unbiased examination. The aim of this article is to identify and analyze the key paradoxes generated by gender-inclusive communication, which persist despite its proclaimed goals of equality and respect. The research material comprises English-language texts of various genres and styles, including scholarly articles, media publications, documents from university websites, healthcare institutions, governmental, non-governmental, and commercial organizations, as well as data from blogs and social networks from the period 2017 to 2025. This allowed us to examine gender-inclusive communication both in the sphere of academic reflection and within the context of public practice. The methodological framework is based on critical discourse analysis, which interprets linguistic changes as a struggle for power, and Lotman\u2019s theory of the semiosphere, which views inclusive language as a phenomenon of cultural dynamics. The study establishes that inclusive communication generates a complex of systemic contradictions across different dimensions: linguistic (between the striving to erase and simultaneously multiply gender differences, leading to semantic tautology and a violation of linguistic conventionality); social (where inclusivity in practice becomes a tool for excluding dissenting voices and marginalizing the experiences of traditional groups); ethical (encompassing the conflict between the ideology of self-identification and biological realities, as well as the imposition of Anglo-centric models onto other linguacultures). Interpreting the results through the chosen methodological lens reveals that inclusive language functions not only as a discourse of power but also as a tool of auto-communication, aimed at redefining the core of the cultural semiosphere and consolidating a \u201cprogressive\u201d identity. The findings open perspectives for comparative studies on the reception of inclusive practices in different linguacultures and for interdisciplinary research into the long-term social effects of linguistic reform.</jats:p>",
+        "DOI": "10.22363/2687-0088-46513",
+        "title": [
+          "Language and gender: Linguistic, social and ethical paradoxes of inclusive communication"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-8669-360X",
+            "authenticated-orcid": false,
+            "given": "Elena S.",
+            "family": "Gritsenko",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "MGIMO University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://journals.rudn.ru/linguistics/article/viewFile/50066/26995",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journals.rudn.ru/linguistics/article/viewFile/50066/26995",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              25
+            ]
+          ],
+          "date-time": "2026-03-25T02:53:23Z",
+          "timestamp": 1774407203507
+        },
+        "abstract": "<jats:p>Dividend policy is an important corporate decision in determining the proportion of profits distributed to shareholders and reflects a company\u2019s financial condition and performance. This study aims to analyze the effect of profitability, liquidity, and capital adequacy on dividend policy, with firm size as a moderating variable, in Regional Development Banks (BPD) in Indonesia during the 2020\u20132024 period. The research problem focuses on differences in dividend policies among BPDs and the financial factors influencing them. This study uses secondary data in the form of annual financial statements obtained from the official website of the Financial Services Authority (OJK). The sampling method employed was purposive sampling, resulting in a sample of 24 BPDs with a total of 120 observations. Data analysis techniques include descriptive statistical analysis, multiple linear regression, and Moderated Regression Analysis (MRA). The results indicate that profitability has a positive and significant effect on dividend policy, liquidity has a positive but insignificant effect, and capital adequacy has a negative and significant effect on dividend policy. Firm size is unable to moderate the effect of profitability and liquidity on dividend policy. The findings may serve as a consideration for BPD management in making dividend distribution decisions.</jats:p>",
+        "DOI": "10.14414/jbb.v15i01.5538",
+        "title": [
+          "Model Kebijakan Dividen pada Bank Pembangunan Daerah di Indonesia dengan Ukuran Perusahaan Sebagai Moderasi"
+        ],
+        "author": [
+          {
+            "given": "Sindy",
+            "family": "Friska Alfiana",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Linda",
+            "family": "Purnama Sari",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              2
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://journal.perbanas.ac.id/index.php/jbb/article/download/5538/1998",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journal.perbanas.ac.id/index.php/jbb/article/download/5538/1998",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              25
+            ]
+          ],
+          "date-time": "2025-09-25T00:17:11Z",
+          "timestamp": 1758759431317
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:p>The paper deals with the issues of increasing the efficiency of functioning of synergetic robotic systems by searching for waysto improve the simulationmodels underlying them (increasing the degree of completeness and adequacy). The architecture of a hybrid simulation model is proposed on the example of a basic complex mode\u0430 of functioning\u0430\u043d\u0438\u044f of a collaborative process. The model is built according to the modular principle and combines discrete-event modules and real-time modules (dynamic modeling, etc.). The platform solution gives the model maximum flexibility when it is specialized for a specific technological process. The functionality of the model is aimed not only at modeling regular situations, but also allows you to forecast the impact of disturbing factors on the development of the situation and the quality of the joint production process of the operator and robot. The interface of the model allows you to include the operator in the planning process of tactical decisions, due to the possibility of organizing control actions on it by means of the effector system.</jats:p>",
+        "DOI": "10.64592/cpssg.2026.2",
+        "title": [
+          "Hybrid Model Process Design of Joint Operator-Robot Interaction within a Synergistic System"
+        ],
+        "author": [
+          {
+            "given": "M.",
+            "family": "Gorkavyy",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Y.",
+            "family": "Ivanov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "D.",
+            "family": "Grabar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "D.",
+            "family": "Solovev",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              1
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://en.scientificconf.uz/f/paper_3.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              1
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 24,
+    "query": {
+      "start-index": 0,
+      "search-terms": "agentic retrieval augmented generation large language model"
+    }
+  }
+}

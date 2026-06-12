@@ -1,0 +1,54 @@
+{
+  "report_name": "baseline",
+  "total_rows": 24,
+  "total_checks": 9,
+  "passed": 9,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "row_count_positive",
+      "passed": true,
+      "details": "rows=24"
+    },
+    {
+      "check": "row_count_minimum",
+      "passed": true,
+      "details": "rows=24 (min=5)"
+    },
+    {
+      "check": "paper_id_not_null",
+      "passed": true,
+      "details": "null_ids=0"
+    },
+    {
+      "check": "paper_id_unique",
+      "passed": true,
+      "details": "duplicate_ids=0"
+    },
+    {
+      "check": "title_not_null",
+      "passed": true,
+      "details": "null=0"
+    },
+    {
+      "check": "title_not_empty",
+      "passed": true,
+      "details": "empty=0"
+    },
+    {
+      "check": "summary_length_adequate",
+      "passed": true,
+      "details": "short_summaries=0"
+    },
+    {
+      "check": "freshness_threshold",
+      "passed": true,
+      "details": "stale_rows=0/24 (100.0% fresh, threshold=180d)"
+    },
+    {
+      "check": "text_for_embedding_populated",
+      "passed": true,
+      "details": "empty=0"
+    }
+  ]
+}

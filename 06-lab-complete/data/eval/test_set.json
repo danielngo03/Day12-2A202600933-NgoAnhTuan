@@ -1,0 +1,326 @@
+[
+  {
+    "id": "q001",
+    "question_type": "summary",
+    "question": "What is the paper 'Model of teaching strategies for the transition from competency-based education to a humanistic educational model for social justice at TecNM' about?",
+    "ground_truth": "This study aimed to design, implement, and validate a teaching strategies model to support the transition from competency-based education to a humanistic educational model focused on social justice at TecNM. A qualitative participatory action research methodology was implemented. Results reveal posi...",
+    "ground_truth_doc_ids": [
+      "10.35429/jet.2026.10.21.3.1.6"
+    ]
+  },
+  {
+    "id": "q002",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Model of teaching strategies for the transition from competency-based education to a humanistic educational model for social justice at TecNM'?",
+    "ground_truth": "Adri\u00e1n P\u00e9rez-V\u00e1zquez, Laura Vidal-Reyes, Mar\u00eda de Lourdes Torres-Madrid, Yaitla Aitza Reyes-Osorio",
+    "ground_truth_doc_ids": [
+      "10.35429/jet.2026.10.21.3.1.6"
+    ]
+  },
+  {
+    "id": "q003",
+    "question_type": "date",
+    "question": "When was 'Model of teaching strategies for the transition from competency-based education to a humanistic educational model for social justice at TecNM' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.35429/jet.2026.10.21.3.1.6"
+    ]
+  },
+  {
+    "id": "q004",
+    "question_type": "summary",
+    "question": "What is the paper 'Language and gender: Linguistic, social and ethical paradoxes of inclusive communication' about?",
+    "ground_truth": "Contemporary scholarly discourse on gender-inclusive communication remains predominantly descriptive, often avoiding a systematic critical analysis of its internal contradictions and social consequences. However, the growing social tension around new linguistic norms, their ideologization, and direc...",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-46513"
+    ]
+  },
+  {
+    "id": "q005",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Language and gender: Linguistic, social and ethical paradoxes of inclusive communication'?",
+    "ground_truth": "Elena S. Gritsenko",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-46513"
+    ]
+  },
+  {
+    "id": "q006",
+    "question_type": "date",
+    "question": "When was 'Language and gender: Linguistic, social and ethical paradoxes of inclusive communication' published?",
+    "ground_truth": "2026-12-15",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-46513"
+    ]
+  },
+  {
+    "id": "q007",
+    "question_type": "summary",
+    "question": "What is the paper 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin' about?",
+    "ground_truth": "This study selects 15 short videos published over the past year by new-type farmers (xin nong ren) on Douyin as research corpus. It adopts systemic functional grammar\u2019s interpersonal meaning theory, visual grammar\u2019s interactive meaning theory, and intersemiotic complementarity theory as analytical f...",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "q008",
+    "question_type": "authors",
+    "question": "Who authored the paper 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin'?",
+    "ground_truth": "Yixin Chen",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "q009",
+    "question_type": "date",
+    "question": "When was 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin' published?",
+    "ground_truth": "2027-05-07",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "q010",
+    "question_type": "summary",
+    "question": "What is the paper 'Systemic functional linguistics and social cognition: A theoretical approach to the relationship between language, society and culture' about?",
+    "ground_truth": "In this article, I argue in favor of strengthening the relationship between Systemic Functional Linguistics (SFL) and Social Cognition in order to answer the following question: how could we extend the understanding of how linguistic choices are affected or complemented cognitively? I thus attempt t...",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48784"
+    ]
+  },
+  {
+    "id": "q011",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Systemic functional linguistics and social cognition: A theoretical approach to the relationship between language, society and culture'?",
+    "ground_truth": "Cl\u00e1udio M\u00e1rcio do Carmo",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48784"
+    ]
+  },
+  {
+    "id": "q012",
+    "question_type": "date",
+    "question": "When was 'Systemic functional linguistics and social cognition: A theoretical approach to the relationship between language, society and culture' published?",
+    "ground_truth": "2026-12-15",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48784"
+    ]
+  },
+  {
+    "id": "q013",
+    "question_type": "summary",
+    "question": "What is the paper 'Modelo organizacional para la articulaci\u00f3n entre proyecci\u00f3n social y responsabilidad social universitaria en universidades p\u00fablicas peruanas.' about?",
+    "ground_truth": "El estudio analiza la pertinencia t\u00e9cnica y normativa deimplementar una Direcci\u00f3n de Responsabilidad SocialUniversitaria (DRSU) en universidades p\u00fablicas peruanas, as\u00edcomo su posible articulaci\u00f3n o fusi\u00f3n con la actual Direcci\u00f3n deProyecci\u00f3n Social y Cultural (DPSC). A partir del SistemaNacional de ...",
+    "ground_truth_doc_ids": [
+      "10.54288/yotantsipanko.v5i2.57"
+    ]
+  },
+  {
+    "id": "q014",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Modelo organizacional para la articulaci\u00f3n entre proyecci\u00f3n social y responsabilidad social universitaria en universidades p\u00fablicas peruanas.'?",
+    "ground_truth": "Sa\u00fal Mor\u00e1n Cusi",
+    "ground_truth_doc_ids": [
+      "10.54288/yotantsipanko.v5i2.57"
+    ]
+  },
+  {
+    "id": "q015",
+    "question_type": "date",
+    "question": "When was 'Modelo organizacional para la articulaci\u00f3n entre proyecci\u00f3n social y responsabilidad social universitaria en universidades p\u00fablicas peruanas.' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.54288/yotantsipanko.v5i2.57"
+    ]
+  },
+  {
+    "id": "q016",
+    "question_type": "summary",
+    "question": "What is the paper 'Validated instrument to measure quality of work life in generation Z: A Contextualized Proposal in Tepeji del R\u00edo' about?",
+    "ground_truth": "Quality of Work Life [QWL] is a key factor influencing employee well being, particularly among Generation Z, who value flexibility and work life balance. This study aimed to design and validate an instrument to assess QWL among young workers in Tepeji del R\u00edo using the Delphi methodology to ensure m...",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.2.1.13"
+    ]
+  },
+  {
+    "id": "q017",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Validated instrument to measure quality of work life in generation Z: A Contextualized Proposal in Tepeji del R\u00edo'?",
+    "ground_truth": "Paola Gizeth Jim\u00e9nez-Fabian, Magda Gabriela S\u00e1nchez-Trujillo",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.2.1.13"
+    ]
+  },
+  {
+    "id": "q018",
+    "question_type": "date",
+    "question": "When was 'Validated instrument to measure quality of work life in generation Z: A Contextualized Proposal in Tepeji del R\u00edo' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.2.1.13"
+    ]
+  },
+  {
+    "id": "q019",
+    "question_type": "summary",
+    "question": "What is the paper '5G and Beyond: IoT Support in Next-Generation Networks' about?",
+    "ground_truth": "The arrival of 5G signals the beginning of a new era of connectivity, one that has the potential to transform many sectors. The promotion of the Internet of Things (IoT), which is a vast network of interconnected devices, is central to this transformation. This article looks at the potential of 5G a...",
+    "ground_truth_doc_ids": [
+      "10.59568/jasic-2025-6-2-06"
+    ]
+  },
+  {
+    "id": "q020",
+    "question_type": "authors",
+    "question": "Who authored the paper '5G and Beyond: IoT Support in Next-Generation Networks'?",
+    "ground_truth": "Ya\u2019u Nuhu, Mukhtar Shehu, Mohammed Maikolo, Mukhtar Musa Zakari",
+    "ground_truth_doc_ids": [
+      "10.59568/jasic-2025-6-2-06"
+    ]
+  },
+  {
+    "id": "q021",
+    "question_type": "date",
+    "question": "When was '5G and Beyond: IoT Support in Next-Generation Networks' published?",
+    "ground_truth": "2026-12-29",
+    "ground_truth_doc_ids": [
+      "10.59568/jasic-2025-6-2-06"
+    ]
+  },
+  {
+    "id": "q022",
+    "question_type": "summary",
+    "question": "What is the paper 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN' about?",
+    "ground_truth": "Pemahaman siswa terhadap ide-ide dasar adalah hasil yang diharapkan dari penyelidikan ini tentang kemanjuran paradigma instruksional Pembelajaran Berbasis Masalah (PBL) dengan penggunaan alat pedagogis. Pernyataan masalah riset ini adalah: 1. Apakah pendekatan pembelajaran Pembelajaran Berbasis Masa...",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "q023",
+    "question_type": "authors",
+    "question": "Who authored the paper 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN'?",
+    "ground_truth": "Cikal Wulandari Kristi, Widya Kusumaningsih, Rizky Esti Utami",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "q024",
+    "question_type": "date",
+    "question": "When was 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN' published?",
+    "ground_truth": "2027-04-27",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "q025",
+    "question_type": "summary",
+    "question": "What is the paper 'THE FRACTAL CYBERNETIC ARCHITECTURE OF THE REGIONAL ANTI-NARCOTIC STRATEGY BASED ON MODEL ORIENTED SYSTEMIC ENGINEERING AS A TOOL OF INTERSECTORAL ADAPTIVE MANAGEMENT' about?",
+    "ground_truth": "This article substantiates the choice of fractal cybernetic architecture of regional anti-narcotic strategy based on the principles of the model-oriented systemic engineering. It is established that the tools of both traditional management by objectives and KPI-oriented management have predominantly...",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-2-285-290"
+    ]
+  },
+  {
+    "id": "q026",
+    "question_type": "authors",
+    "question": "Who authored the paper 'THE FRACTAL CYBERNETIC ARCHITECTURE OF THE REGIONAL ANTI-NARCOTIC STRATEGY BASED ON MODEL ORIENTED SYSTEMIC ENGINEERING AS A TOOL OF INTERSECTORAL ADAPTIVE MANAGEMENT'?",
+    "ground_truth": "A. V. Akhokhova, V. V. Lyutsko, M. K. Tkhagapsoeva, D. V. Zheligotova",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-2-285-290"
+    ]
+  },
+  {
+    "id": "q027",
+    "question_type": "date",
+    "question": "When was 'THE FRACTAL CYBERNETIC ARCHITECTURE OF THE REGIONAL ANTI-NARCOTIC STRATEGY BASED ON MODEL ORIENTED SYSTEMIC ENGINEERING AS A TOOL OF INTERSECTORAL ADAPTIVE MANAGEMENT' published?",
+    "ground_truth": "2026-12-15",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-2-285-290"
+    ]
+  },
+  {
+    "id": "q028",
+    "question_type": "summary",
+    "question": "What is the paper 'How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model' about?",
+    "ground_truth": "This study explores how ethical leadership fosters employees' feedback-seeking behaviours. Drawing on Self-Determination Theory, the research identifies intrinsic motivation and affective commitment as key mediators through which ethical leaders encourage proactive feedback-seeking. The findings rev...",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "q029",
+    "question_type": "authors",
+    "question": "Who authored the paper 'How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model'?",
+    "ground_truth": "Wasim Ul Rehman, Mustafa Bekmezci, L\u00fctfi S\u00fcr\u00fcc\u00fc, Kamran Ali, Anam Mustansar",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "q030",
+    "question_type": "date",
+    "question": "When was 'How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model' published?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "q031",
+    "question_type": "summary",
+    "question": "What is the paper 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development' about?",
+    "ground_truth": "This study aims to examine the effects, improvements, and differences in the skills and work attitudes of students through the integration of a Deep Learning approach with the Project Based Learning PjBL model in the Style and Design Development element of the Fashion Design and Production subject a...",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "q032",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development'?",
+    "ground_truth": "Umi Chasanah Turosidah, Yeri Sutopo, Sri Endah Wahyuningsih, Ade Novi Nurul Ihsani",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "q033",
+    "question_type": "date",
+    "question": "When was 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development' published?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "q034",
+    "question_type": "summary",
+    "question": "What is the paper 'Increasing Awareness of the Younger Generation on Political Participation in General Elections' about?",
+    "ground_truth": "General elections are the main pillars of Indonesian democracy as stipulated in Article 27 of the 1945 Constitution of the Republic of Indonesia and Law Number 7 of 2017 concerning General Elections. The younger generation, which makes up about 55% of the total electorate, has a strategic role in de...",
+    "ground_truth_doc_ids": [
+      "10.62872/sza4qm30"
+    ]
+  },
+  {
+    "id": "q035",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Increasing Awareness of the Younger Generation on Political Participation in General Elections'?",
+    "ground_truth": "Marudut Hasugian, Firman, Muhamad Sofian",
+    "ground_truth_doc_ids": [
+      "10.62872/sza4qm30"
+    ]
+  },
+  {
+    "id": "q036",
+    "question_type": "date",
+    "question": "When was 'Increasing Awareness of the Younger Generation on Political Participation in General Elections' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.62872/sza4qm30"
+    ]
+  }
+]

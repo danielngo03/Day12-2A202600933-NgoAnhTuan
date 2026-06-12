@@ -1,0 +1,62 @@
+{
+  "total_rows_before": 20,
+  "total_rows_after": 22,
+  "operations": [
+    {
+      "type": "drop_latest",
+      "count": 4,
+      "paper_ids": [
+        "10.22158/eltls.v8n3p21",
+        "10.26877/jipmat.v11i1.2279",
+        "10.15294/jvce.v11i2.45302",
+        "10.30656/1intech.v11i2.11359"
+      ]
+    },
+    {
+      "type": "blank_summary",
+      "count": 3,
+      "rows": [
+        12,
+        19,
+        6
+      ]
+    },
+    {
+      "type": "inject_noise",
+      "count": 4,
+      "rows": [
+        19,
+        5,
+        7,
+        17
+      ]
+    },
+    {
+      "type": "truncate_title",
+      "count": 3,
+      "rows": [
+        19,
+        15,
+        6
+      ]
+    },
+    {
+      "type": "stale_dates",
+      "count": 4,
+      "rows": [
+        13,
+        18,
+        6,
+        11
+      ]
+    },
+    {
+      "type": "add_duplicates",
+      "count": 2,
+      "rows": [
+        12,
+        6
+      ]
+    }
+  ]
+}
